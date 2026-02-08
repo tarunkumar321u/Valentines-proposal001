@@ -68,3 +68,12 @@ button.no {
     padding: 10px 16px;
   }
 }
+.love-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 3px solid #fff;
+}
+
